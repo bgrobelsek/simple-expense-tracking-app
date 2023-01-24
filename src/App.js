@@ -25,6 +25,12 @@ const DUMMY_EXPENSES = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
+  {
+    id: 'e5',
+    title: 'New Book Shelf ',
+    amount: 45,
+    date: new Date(2020, 2, 22),
+  },
 ];
 
 const App = () => {
